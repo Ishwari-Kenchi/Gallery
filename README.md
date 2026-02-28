@@ -5,6 +5,8 @@ A modern, responsive image gallery built using HTML, CSS, and JavaScript, powere
 
 This project demonstrates API integration, dynamic rendering, search functionality, and infinite scrolling using vanilla JavaScript.
 
+Link - https://ishwari-kenchi.github.io/Gallery/
+
 ---
 
 ## 🚀 Features
